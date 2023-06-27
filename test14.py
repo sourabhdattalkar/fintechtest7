@@ -1,0 +1,1 @@
+print("Why indians are more relegious belief rather than other country")
